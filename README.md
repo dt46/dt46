@@ -49,10 +49,10 @@
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dt46&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     </div>
     <div>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=dt46&show_icons=true&locale=en" alt="GitHub Stats" />
+        <img height="100" witdh="150" align="center" src="https://github-readme-stats.vercel.app/api?username=dt46&show_icons=true&locale=en" alt="GitHub Stats" />
     </div>
     <div>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dt46&" alt="GitHub Streak" />
+        <img height="100" witdh="150" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dt46&" alt="GitHub Streak" />
     </div>
 </div>
 
