@@ -46,10 +46,10 @@
 
 <div style="display: flex; justify-content: space-between;">
     <div>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=dt46&show_icons=true&locale=en" alt="GitHub Stats" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=dt46&show_icons=true&locale=en" alt="GitHub Stats" />
     </div>
     <div>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dt46&" alt="GitHub Streak" />
+        <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dt46&" alt="GitHub Streak" />
     </div>
 </div>
 
