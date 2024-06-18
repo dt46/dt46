@@ -1,67 +1,54 @@
 <h2 align="left">Hi 👋! My name is Reza Pratama</h2>
 
+## 💫 About Me
+• 🔭 Software Engineering Student </br>
+• 🌱 Data Enthusiast.</br>
 <p align="left">Just a Newbie Programmer...</p>
 
 <br clear="both">
 
 <img align="right" height="200" width="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding gif" style="border-radius: 8px;">
 
+## 💻 Tech Stack:
 <div align="center">
-  <span style="margin-right: 10px;">TechStack</span>
-  <br>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+    <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" height="30" alt="Python logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# logo" />
+    <img src="https://img.shields.io/badge/csharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" height="30" alt="C# logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="Android Studio logo" />
+    <img src="https://img.shields.io/badge/androidstudio-%23000000.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84" height="30" alt="Android Studio logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="30" alt="C logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo" />
+    <img src="https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="30" alt="PHP logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Go logo" />
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" height="30" alt="Go logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
+    <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="30" alt="MongoDB logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height="30" alt="Java logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30" alt="JavaScript logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="Kaggle logo" />
+    <img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" height="30" alt="Kaggle logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin logo" />
+    <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="30" alt="Kotlin logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
+    <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" height="30" alt="Linux logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="Nginx logo" />
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="30" alt="Nginx logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" />
+    <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="PostgreSQL logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R logo" />
+    <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="30" alt="R logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="RStudio logo" />
-  </span>
+    <img src="https://img.shields.io/badge/rstudio-%23276DC3.svg?style=for-the-badge&logo=rstudio&logoColor=white" height="30" alt="RStudio logo" />
 </div>
 
-<div style="margin-top: 10px; clear: both;"></div>
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thinksaboutza) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rzapratama/)
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" style="width: 100%; height: auto;">
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=dt46&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/streak-stats/?username=dt46&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) </br>
+[![](https://visitcount.itsvg.in/api?id=mfthrq&icon=1&color=6)](https://visitcount.itsvg.in)
 
-<div style="display: flex; justify-content: space-between; margin-top: 20px;">
-    <div style="margin-right: 10px;">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=dt46&show_icons=true&locale=en" alt="GitHub Stats" />
-    </div>
-    <div style="margin-left: 10px;">
-        <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dt46&" alt="GitHub Streak" />
-    </div>
-</div>
-
-<div align="center" style="margin-top: 15px;">
-    <a href="https://www.linkedin.com/in/rzapratama" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn logo" />
-    </a>
-    <a href="https://www.instagram.com/thinksaboutza" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Instagram logo" />
-    </a>
-</div>
