@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="left" height="150" width="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding gif" style="border-radius: 8px;">
+<img align="right" height="200" width="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding gif" style="border-radius: 8px;">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
@@ -42,16 +42,16 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" style="width: 100%; height: auto;">
 
 <div align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/rzapratama" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn logo" />
   </a>
   <a href="https://discord.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Discord logo" />
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/thinksaboutza" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Instagram logo" />
   </a>
 </div>
