@@ -5,7 +5,7 @@
 <div style="clear:both;">
     <img align="right" height="150" width="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding gif" style="border-radius: 8px; margin-left: 20px;">
     
-    ## 💫 About Me
+    💫 About Me
     - 🔭 Software Engineering Student
     - 🌱 Data Enthusiast
     
