@@ -44,18 +44,21 @@
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" style="width: 100%; height: auto;">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dt46&show_icons=true&locale=en&layout=compact" alt="dt46" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dt46&show_icons=true&locale=en" alt="dt46" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dt46&" alt="dt46" /></p>
+<div style="display: flex; justify-content: space-around;">
+    <div>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dt46&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    </div>
+    <div>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=dt46&show_icons=true&locale=en" alt="GitHub Stats" />
+    </div>
+    <div>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dt46&" alt="GitHub Streak" />
+    </div>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rzapratama" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn logo" />
-  </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Discord logo" />
   </a>
   <a href="https://www.instagram.com/thinksaboutza" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Instagram logo" />
