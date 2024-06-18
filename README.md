@@ -51,8 +51,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rzapratama/)
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=dt46&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dt46&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=dt46&theme=radical&hide_border=false&include_all_commits=false&count_private=false" style="width: 48%;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dt46&theme=radical&hide_border=false&include_all_commits=false&count_private=false" style="width: 48%;" />
+</div>
 
 <br>
 
