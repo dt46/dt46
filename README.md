@@ -44,17 +44,18 @@
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" style="width: 100%; height: auto;">
 
-<div style="display: flex; justify-content: space-around;">
-    <div>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dt46&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<div style="display: flex;">
+    <div style="flex: 1;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dt46&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     </div>
-    <div>
-        <img height="100" witdh="150" align="center" src="https://github-readme-stats.vercel.app/api?username=dt46&show_icons=true&locale=en" alt="GitHub Stats" />
+    <div style="flex: 1;">
+        <img src="https://github-readme-stats.vercel.app/api?username=dt46&show_icons=true&locale=en" alt="GitHub Stats" />
     </div>
-    <div>
-        <img height="100" witdh="150" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dt46&" alt="GitHub Streak" />
+    <div style="flex: 1;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dt46&" alt="GitHub Streak" />
     </div>
 </div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rzapratama" target="_blank">
