@@ -3,13 +3,12 @@
 <p align="left">Just a Newbie Programmer...</p>
 
 <div style="clear:both;">
-    <img align="right" height="200" width="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding gif" style="border-radius: 8px; margin-left: 20px;">
+    <img align="right" height="150" width="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding gif" style="border-radius: 8px; margin-left: 20px;">
     
     ## 💫 About Me
     - 🔭 Software Engineering Student
     - 🌱 Data Enthusiast
     
-    <br clear="both">
 </div>
 
 ## 💻 Tech Stack:
@@ -52,10 +51,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rzapratama/)
 
 ## 📊 GitHub Stats
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dt46&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
-    <img src="https://github-readme-stats.vercel.app/api/streak-stats/?username=dt46&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=dt46&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dt46&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
 
 <br>
 
