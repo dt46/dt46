@@ -1,13 +1,16 @@
 <h2 align="left">Hi 👋! My name is Reza Pratama</h2>
 
-## 💫 About Me
-• 🔭 Software Engineering Student </br>
-• 🌱 Data Enthusiast.</br>
 <p align="left">Just a Newbie Programmer...</p>
 
-<br clear="both">
-
-<img align="right" height="200" width="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding gif" style="border-radius: 8px;">
+<div style="clear:both;">
+    <img align="right" height="200" width="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding gif" style="border-radius: 8px; margin-left: 20px;">
+    
+    ## 💫 About Me
+    - 🔭 Software Engineering Student
+    - 🌱 Data Enthusiast
+    
+    <br clear="both">
+</div>
 
 ## 💻 Tech Stack:
 <div align="center">
@@ -45,10 +48,15 @@
 </div>
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thinksaboutza) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rzapratama/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thinksaboutza) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rzapratama/)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=dt46&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/streak-stats/?username=dt46&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) </br>
-[![](https://visitcount.itsvg.in/api?id=mfthrq&icon=1&color=6)](https://visitcount.itsvg.in)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=dt46&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+    <img src="https://github-readme-stats.vercel.app/api/streak-stats/?username=dt46&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
+<br>
+
+[![Visit Count](https://visitcount.itsvg.in/api?id=mfthrq&icon=1&color=6)](https://visitcount.itsvg.in)
