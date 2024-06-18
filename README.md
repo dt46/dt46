@@ -46,12 +46,9 @@
 
 <div style="display: flex;">
     <div style="flex: 1;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dt46&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    </div>
-    <div style="flex: 2;">
         <img src="https://github-readme-stats.vercel.app/api?username=dt46&show_icons=true&locale=en" alt="GitHub Stats" />
     </div>
-    <div style="flex: 3;">
+    <div style="flex: 1;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=dt46&" alt="GitHub Streak" />
     </div>
 </div>
