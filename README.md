@@ -52,8 +52,8 @@
 
 ## 📊 GitHub Stats
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=dt46&theme=radical&hide_border=false&include_all_commits=false&count_private=false" style="width: 48%;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dt46&theme=radical&hide_border=false&include_all_commits=false&count_private=false" style="width: 48%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dt46&theme=radical&hide_border=false&include_all_commits=true&count_private=false" style="width: 48%;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dt46&theme=radical&hide_border=false&include_all_commits=true&count_private=false" style="width: 48%;" />
 </div>
 
 <br>
