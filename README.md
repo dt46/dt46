@@ -55,7 +55,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=dt46&theme=radical&hide_border=false&include_all_commits=false&count_private=false" style="width: 48%;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dt46&theme=radical&hide_border=false&include_all_commits=true&count_private=false" style="width: 48%;" />
 </div>
-
-<br>
-
-[![Visit Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dt46&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visit+Count&edge_flat=false)](https://hits.seeyoufarm.com/)
